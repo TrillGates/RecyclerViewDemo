@@ -13,5 +13,6 @@
 
 
 
-#####gif图片如下：
+#####gif图片如下(图片很大，加载需要时间 哈！！！)：
 
+![](https://github.com/TrillGates/RecyclerViewDemo/blob/master/pic.gif)
